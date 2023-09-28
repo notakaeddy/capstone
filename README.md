@@ -1,1 +1,1 @@
-# ecommerce-shop-starter
+# Ecommerce Shop Final Capstone Project Fullstack Academy 2023
