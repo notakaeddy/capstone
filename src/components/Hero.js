@@ -12,7 +12,7 @@ const Hero = () => {
         <div className='flex flex-col justify-center'>
           {/* pretitle */}
           <div className='font-semibold flex items-center uppercase'>
-            <div className='w-10 h-[2px] bg-red-800 mr-3'></div>Trend Setters
+            <div className='w-10 h-[2px] bg-red-800 mr-3'></div>New Trends
           </div>
           {/* title */}
           <h1 className='text-[70px] leading-[1.1] font-light mb-4'>
@@ -23,7 +23,7 @@ const Hero = () => {
             to={'/'}
             className='self-start uppercase font-semibold border-b-2 border-primary'
           >
-            Discover More
+            Discover
           </Link>
         </div>
         {/* image */}
